@@ -1,11 +1,120 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>HAPPYTRAVEL</title>
+    <title>Happy Travel</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 </head>
 <body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="logo_maleta.png" alt="Logo Happy Travel">
+            </div>
+            <ul>
+                <li><a href="#">DESTINOS</a></li>
+                <li><a href="#">OFERTAS</a></li>
+                <li><a href="#">SOBRE<br>NOSOTROS</a></li>
+                <li><a href="#">CONTACTO</a></li>
+                <li><a href="#" class="reservar">RESERVAR<br>AHORA</a></li>
+            </ul>
+        </nav>
+    </header>
     
+    <main>
+        <section class="hero hero-principal">
+            <img src="colosseum.jpg" alt="Coliseo Romano">
+            <p>Descubre el mundo con Happy Travel</p>
+        </section>
+        
+        <section class="destinos">
+            <h2>DESTINOS POPULARES</h2>
+            <div class="destinos-grid">
+                <div class="destino">
+                    <img src="torre_del_oro.jpg" alt="Torre del Oro">
+                    <div class="destino-texto">
+                        <h3>TORRE DEL ORO</h3>
+                        <p>Situado a orillas del río Guadalquivir, construida en el siglo XIII por los almohades.</p>
+                    </div>
+                </div>
+                <div class="destino">
+                    <img src="gran_muralla_china.jpg" alt="Gran Muralla China">
+                    <div class="destino-texto">
+                        <h3>GRAN MURALLA CHINA</h3>
+                        <p>Extensa serie de fortificaciones construidas a lo largo de las fronteras históricas del norte de China.</p>
+                    </div>
+                </div>
+                <div class="destino">
+                    <img src="machu_picchu.jpg" alt="Machu Picchu">
+                    <div class="destino-texto">
+                        <h3>MACHU PICCHU</h3>
+                        <p>Antigua ciudadela inca construida en el siglo XV en una montaña de los andes peruanos.</p>
+                    </div>
+                </div>
+                <div class="destino">
+                    <img src="coliseo_romano.jpg" alt="Coliseo Romano">
+                    <div class="destino-texto">
+                        <h3>COLISEO ROMANO</h3>
+                        <p>Antiguo anfiteatro de la ciudad de Roma, Italia, fue completado durante el imperio Romano.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+        
+        <section class="ofertas">
+            <h2>OFERTAS</h2>
+            <div class="ofertas-grid">
+                <div class="oferta">
+                    <div class="oferta-texto">
+                        <h3>30% de descuento de viajes en España</h3>
+                        <p>Por tiempo limitado, todos los usuarios tendrán un descuento del 30% en viajes por España.</p>
+                        <p class="validez">Oferta válida desde el 26/03/2025 hasta 26/04/2025</p>
+                    </div>
+                    <img src="spain_flag.jpg" alt="Bandera de España">
+                </div>
+                <div class="oferta">
+                    <div class="oferta-texto">
+                        <h3>Escapada a la toscana</h3>
+                        <p>¡Ven a la toscana este finde! Esta semana, todos los usuarios pueden visitar la toscana por un 40% de descuento en vuelos, ¿a qué esperas?</p>
+                        <p class="validez">Oferta válida desde el 31/05/2025 hasta 31/06/2025</p>
+                    </div>
+                    <img src="toscana.jpg" alt="Paisaje de la Toscana">
+                </div>
+            </div>
+        </section>
+        
+        <section class="notificaciones">
+            <h2>RECIBIR NOTIFICACIONES</h2>
+            <div class="form-container">
+                <div class="input-field">
+                    <input type="email" placeholder="Introduce tu gmail aquí:">
+                </div>
+                <button type="submit">SUSCRIBIRSE</button>
+                <div class="logo-footer">
+                    <img src="logo_maleta.png" alt="Logo Happy Travel">
+                </div>
+            </div>
+        </section>
+    </main>
+    
+    <footer>
+        <div class="footer-menu">
+            <a href="#">SOPORTE</a>
+            <a href="#">COMPAÑÍA</a>
+            <a href="#">MI CUENTA</a>
+            <a href="#">VOLVER ATRÁS</a>
+        </div>
+        <div class="social-media">
+            <a href="#" class="social-icon youtube" aria-label="Visita nuestro canal de YouTube"><img src="youtube_icon.png" alt="YouTube"></a>
+            <a href="#" class="social-icon twitter" aria-label="Síguenos en Twitter"><img src="twitter_icon.png" alt="Twitter"></a>
+            <a href="#" class="social-icon facebook" aria-label="Visítanos en Facebook"><img src="facebook_icon.png" alt="Facebook"></a>
+            <a href="#" class="social-icon instagram" aria-label="Síguenos en Instagram"><img src="instagram_icon.png" alt="Instagram"></a>
+        </div>
+        <div class="copyright">
+            <p>&copy; 2025 Happy Travel. Todos los derechos reservados.</p>
+        </div>
+    </footer>
 </body>
 </html>
