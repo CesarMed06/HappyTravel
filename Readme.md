@@ -1,11 +1,11 @@
 # HappyTravel
 
-Bienvenidos a mi proyecto de digitalización del tercer trimestre: una landing page para HappyTravel.
+Bienvenidos a mi proyecto de digitalización del tercer trimestre: una Landing Page para HappyTravel.
 
 # Descripción del proyecto
 
 He desarollado esta página web usando HTML y CSS para mostrar información sobre destinos turísticos de manera atractiva.
-El objetivo era simular una página web de agencia de viajes, y es lo que he intentado replicar al máximo, usando imágenes externas para que se aprecie mejor, con un archivo de estilos "css" donde aplique todos los estilos.
+El objetivo era simular una página web de agencia de viajes, y es lo que he intentado replicar al máximo, usando imágenes externas para que se aprecie mejor, con un archivo de estilos "css" donde apliqué todos los estilos.
 
 También al subir los cambios al repositorio, hize los commits en inglés para mayor legibilidad.
 
@@ -30,12 +30,12 @@ Todos estos cambios los acompañe de imágenes y una paleta de colores cálidos,
 
 # Experiencia obtenida
 
-Durante este proyecto, mejore mis conocimientos de CSS, sobre todo en:
+Durante este proyecto, mejoré mis conocimientos de CSS, sobre todo en:
 
 - Efectos de hover y transiciones suaves.
 - Posicionamientos de elementos con flexbox y grid.
 - Manejo de imágenes.
-- Crecaión de formularios.
+- Creación de formularios.
 - Uso de efectos.
 
 # Captura de pantalla 
@@ -46,4 +46,4 @@ Esta es la captura de pantalla de la página final:
 
 # Conclusión final
 
-Este proyecto fue un verdadero desafío, y me ayudo a mejorar mi conocimiento sobre CSS principalmente, también mejoré más usando Figma (en la creación de la Landing Page) y GitHub (asimilando mejor los comandos para subir los cambios al repositorio)
+Este proyecto fue un verdadero desafío, y me ayudo a mejorar mi conocimiento sobre CSS principalmente, también mejoré más en el uso de Figma (en la creación de la Landing Page) y GitHub (asimilando mejor los comandos para subir los cambios al repositorio)
