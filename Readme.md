@@ -5,7 +5,7 @@ Bienvenidos a mi proyecto de digitalización del tercer trimestre: una landing p
 # Descripción del proyecto
 
 He desarollado esta página web usando HTML y CSS para mostrar información sobre destinos turísticos de manera atractiva.
-El objetivo era simular una página web de agencia de viajes, y es lo que he intentado replicar al máximo, usando imágenes externas para que se aprecie mejor, con un archivo de estilos "css" donde aplique todos los estilos.
+El objetivo era simular una página web de agencia de viajes, y es lo que he intentado replicar al máximo, usando imágenes enlazadas desde Cloudinary para que se aprecie mejor, con un archivo de estilos "css" donde apliqué todos los estilos.
 
 También al subir los cambios al repositorio, hize los commits en inglés para mayor legibilidad.
 
