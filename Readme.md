@@ -23,21 +23,6 @@ Por último, en el footer agregue un pequeño menú donde los usuarios podrán i
 
 Todos estos cambios los acompañe de imágenes y una paleta de colores cálidos, y usé estilos CSS para mayor comodidad (estilos al pasar el cursor, imágenes que se mueven al pasar el cursor...)
 
-# Tecnologías utilizadas
-
-- HTML: para la estructura básica ("index.html")
-- CSS: para estilos y animaciones ("styles.css")
-
-# Experiencia obtenida
-
-Durante este proyecto, mejore mis conocimientos de CSS, sobre todo en:
-
-- Efectos de hover y transiciones suaves.
-- Posicionamientos de elementos con flexbox y grid.
-- Manejo de imágenes.
-- Crecaión de formularios.
-- Uso de efectos.
-
 # Captura de pantalla 
 
 Esta es la captura de pantalla de la página final:
